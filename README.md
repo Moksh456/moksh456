@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey I am ' Moksh <br>My profession is coding.<br>I also want to be a frontend developer.<br>currently i am intern at the scaler school of technology 
 
-
+frontend
 ## 🌐 Socials: 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/moxh-sharma-abb13536a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moxhsharma878@gmail.com)  
 
