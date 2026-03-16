@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey I am ' Moksh <br>My profession is coding.<br>I also want to be a frontend developer.<br>currently i am intern at the scaler school of technology 
+Hey I am ' Moksh <br>My profession is coding.<br>I also want to be a frontend developer.<br>
 
 frontend
 ## 🌐 Socials: 
